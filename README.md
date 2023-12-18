@@ -10,3 +10,7 @@ keep reading, keep writting, keep coding
 ## 《kubernetes源码阅读》
 - [《kubernetes源码阅读》](content/《kubernetes源码阅读》/README.md)
     - [ kubelet ](content/《kubernetes源码阅读》/content/kubelet/README.md)
+
+## 《Rust技巧》
+- [ 《Rust技巧》 ](content/《Rust技巧》/README.md)
+    - [ 实现类似go语言channel的优雅关闭 ](content/《Rust技巧》/content/实现类似go语言channel的优雅关闭/README.md)
