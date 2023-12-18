@@ -14,3 +14,7 @@ keep reading, keep writting, keep coding
 ## 《Rust技巧》
 - [ 《Rust技巧》 ](content/《Rust技巧》/README.md)
     - [ 实现类似go语言channel的优雅关闭 ](content/《Rust技巧》/content/实现类似go语言channel的优雅关闭/README.md)
+
+## 《Go技巧》
+- [ 《Go技巧》 ](./content/《Go技巧》/README.md)
+    - [ 使用gopacket抓TCP三次握手四次挥手 ](./content/《Go技巧》/content/使用gopacket抓TCP三次握手四次挥手/README.md)
