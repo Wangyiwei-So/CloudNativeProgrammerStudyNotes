@@ -3,6 +3,9 @@
 gopacket是一个抓包工具，可以让我们不用命令行而是用Go代码来进行抓包、包模拟、包解析等功能。
 
 ## Example
+
+本节提供一个例子来说明如何使用gopacket抓TCP三次握手四次挥手
+
 ```shell
 cd content/《Go技巧》/content/使用gopacket抓TCP三次握手四次挥手/example/tcptest
 go mod tidy
