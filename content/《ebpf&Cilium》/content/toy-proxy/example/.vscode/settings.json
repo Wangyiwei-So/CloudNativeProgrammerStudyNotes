@@ -4,6 +4,7 @@
         "cstdarg": "c",
         "iostream": "c",
         "streambuf": "c",
-        "*.tcc": "c"
+        "*.tcc": "c",
+        "bpf.h": "c"
     }
 }

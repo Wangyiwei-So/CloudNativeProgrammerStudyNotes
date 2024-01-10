@@ -7,3 +7,6 @@ userspace:
 
 iptable:
 	sudo iptables -t nat -A OUTPUT -p $PROTO -d $CLUSTER_IP --dport $PORT -j DNAT --to-destination $POD_IP:$PORT
+
+generate:
+	go generate ./... 
