@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuites tests="1" disabled="0" errors="0" failures="0" time="0.000163837">
+      <testsuite name="Report Suite" package="/home/wangyiwei/CloudNativeProgrammerStudyNotes/content/《Go第三方库》/content/ginkgo测试框架/example/ginkgo/report" tests="1" disabled="0" skipped="0" errors="0" failures="0" time="0.000163837" timestamp="2024-01-15T12:07:43">
+          <properties>
+              <property name="SuiteSucceeded" value="true"></property>
+              <property name="SuiteHasProgrammaticFocus" value="false"></property>
+              <property name="SpecialSuiteFailureReason" value=""></property>
+              <property name="SuiteLabels" value="[]"></property>
+              <property name="RandomSeed" value="1705291663"></property>
+              <property name="RandomizeAllSpecs" value="false"></property>
+              <property name="LabelFilter" value=""></property>
+              <property name="FocusStrings" value=""></property>
+              <property name="SkipStrings" value=""></property>
+              <property name="FocusFiles" value=""></property>
+              <property name="SkipFiles" value=""></property>
+              <property name="FailOnPending" value="false"></property>
+              <property name="FailFast" value="false"></property>
+              <property name="FlakeAttempts" value="0"></property>
+              <property name="DryRun" value="false"></property>
+              <property name="ParallelTotal" value="1"></property>
+              <property name="OutputInterceptorMode" value=""></property>
+          </properties>
+          <testcase name="[It] Add add case" classname="Report Suite" status="passed" time="6.9707e-05">
+              <system-err>&gt; Enter [It] add case - /home/wangyiwei/CloudNativeProgrammerStudyNotes/content/《Go第三方库》/content/ginkgo测试框架/example/ginkgo/report/add_test.go:11 @ 01/15/24 12:07:43.883&#xA;&lt; Exit [It] add case - /home/wangyiwei/CloudNativeProgrammerStudyNotes/content/《Go第三方库》/content/ginkgo测试框架/example/ginkgo/report/add_test.go:11 @ 01/15/24 12:07:43.883 (0s)&#xA;</system-err>
+          </testcase>
+      </testsuite>
+  </testsuites>
