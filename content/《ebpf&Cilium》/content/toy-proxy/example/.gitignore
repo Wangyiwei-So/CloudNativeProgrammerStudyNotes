@@ -1,0 +1,5 @@
+bpf/toy_proxy__bpf_bpfel_x86.go
+bpf/toy_proxy__bpf_bpfel_x86.o
+
+bpf-sock/toy_proxy_bpf_sock_bpfel_x86.o
+bpf-sock/toy_proxy_bpf_sock_bpfel_x86.go
