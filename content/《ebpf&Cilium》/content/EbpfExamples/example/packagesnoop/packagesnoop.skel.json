@@ -1,0 +1,1 @@
+{"bpf_skel":{"data_sections":[],"maps":[{"ident":"rodata_str1_1","name":".rodata.str1.1"},{"ident":"rodata","name":"packages.rodata"}],"obj_name":"packagesnoop_bpf","progs":[{"attach":"xdp","link":true,"name":"xdp_program"}]},"eunomia_version":"0.3.4"}
